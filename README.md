@@ -11,6 +11,6 @@
 
 ## Demo
 
-https://user-images.githubusercontent.com/26674425/117585732-5ef9b580-b12d-11eb-83df-1755a9587571.mp4
+![](https://github.com/Huzaifaahmed20/react-css/blob/master/assets/react-css.gif)
 
 **Enjoy!**
