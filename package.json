@@ -6,6 +6,10 @@
   "version": "0.0.1",
   "github": "https://github.com/Huzaifaahmed20",
   "icon": "assets/icon.jpg",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/Huzaifaahmed20/react-css"
+  },
   "engines": {
     "vscode": "^1.55.0"
   },
