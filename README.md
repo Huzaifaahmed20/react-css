@@ -1,6 +1,6 @@
 # React CSS
 
-![Banner](https://github.com/Huzaifaahmed20/react-css/blob/master/assets/react-css-banner?raw=true)
+![Banner](https://raw.githubusercontent.com/Huzaifaahmed20/react-css/master/assets/react-css-banner.jpg)
 
 ## Features
 
